@@ -1,0 +1,20 @@
+[
+  {
+    "Created": "5/2/2022",
+    "Modified": "5/2/2022",
+    "WholeSallerId": "1",
+    "BeerId": "2",
+    "CustomerName": "Customer 1",
+    "Quantity": 20,
+    "TotalPrice": 389.65
+  },
+  {
+    "Created": "5/2/2022",
+    "Modified": "5/2/2022",
+    "WholeSallerId": "2",
+    "BeerId": "1",
+    "CustomerName": "Customer 2",
+    "Quantity": 9,
+    "TotalPrice": 124.99
+  }
+]

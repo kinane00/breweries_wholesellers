@@ -1,0 +1,29 @@
+[
+  {
+    "Created": "1/1/2012",
+    "Modified": "1/1/2020",
+    "Name": "Beer 1",
+    "AlcoholContent": 12.6,
+    "price": 14.20,
+    "SalePrice": 19.85,
+    "BreweryId": 1
+  },
+  {
+    "Created": "1/1/2013",
+    "Modified": "1/1/2019",
+    "Name": "Beer 2",
+    "AlcoholContent": 16.6,
+    "price": 16.56,
+    "SalePrice": 22.00,
+    "BreweryId": 2
+  },
+  {
+    "Created": "1/1/2014",
+    "Modified": "1/1/2021",
+    "Name": "Beer 3",
+    "AlcoholContent": 20,
+    "price": 18.20,
+    "SalePrice": 28.99,
+    "BreweryId": 3
+  }
+]
